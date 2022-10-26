@@ -1,0 +1,86 @@
+C:\Users\Nutzer\source\repos\Ditec\Ditec\bin\Debug\Ditec.exe.config
+C:\Users\Nutzer\source\repos\Ditec\Ditec\bin\Debug\Ditec.exe
+C:\Users\Nutzer\source\repos\Ditec\Ditec\bin\Debug\Ditec.pdb
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.csprojAssemblyReference.cache
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.Form1.resources
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.Form2.resources
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.Form3.resources
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.Form4.resources
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.Form5.resources
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.Properties.Resources.resources
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.csproj.GenerateResource.cache
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.exe
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.pdb
+C:\Users\Nutzer\source\repos\Ditec\Ditec\obj\Debug\Ditec.txtsearch.resources
+E:\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe.config
+E:\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe
+E:\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.pdb
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csprojAssemblyReference.cache
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form1.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form2.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form3.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form4.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form5.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Properties.Resources.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csproj.GenerateResource.cache
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.exe
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.pdb
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form7.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form6.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form8.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form9.resources
+E:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form10.resources
+G:\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe.config
+G:\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe
+G:\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.pdb
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csprojAssemblyReference.cache
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form1.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form10.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form2.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form3.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form4.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form5.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form6.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form7.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form8.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form9.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Properties.Resources.resources
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csproj.GenerateResource.cache
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.exe
+G:\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.pdb
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe.config
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.pdb
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csprojAssemblyReference.cache
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form1.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form10.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form2.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form3.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form4.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form5.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form6.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form7.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form8.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form9.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Properties.Resources.resources
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csproj.GenerateResource.cache
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.exe
+E:\JP\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.pdb
+E:\Works\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe.config
+E:\Works\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.exe
+E:\Works\Final Project Dip in IT\Ditec\Ditec\bin\Debug\Ditec.pdb
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csprojAssemblyReference.cache
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form1.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form10.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form2.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form3.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form4.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form5.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form6.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form7.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form8.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Form9.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.Properties.Resources.resources
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.csproj.GenerateResource.cache
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.exe
+E:\Works\Final Project Dip in IT\Ditec\Ditec\obj\Debug\Ditec.pdb
